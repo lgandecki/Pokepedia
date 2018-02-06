@@ -1,0 +1,22 @@
+{
+  "name": "lunch-tinder",
+  "description": "\n",
+  "version": "0.0.7",
+  "dependencies": {
+    "react": "16.0.0",
+    "react-apollo": "^1.4.16",
+    "react-dom": "16.0.0",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
